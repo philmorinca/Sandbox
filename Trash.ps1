@@ -1,4 +1,4 @@
-﻿$DesktopPath = [Environment]::GetFolderPath("Desktop")
+$DesktopPath = [Environment]::GetFolderPath("Desktop")
 $mypath ="$DesktopPath\Fichiers piratés"
 If(!(test-path -PathType container $mypath))
 {
