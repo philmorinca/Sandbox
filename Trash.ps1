@@ -1,5 +1,5 @@
 $DesktopPath = [Environment]::GetFolderPath("Desktop")
-$mypath ="$DesktopPath\Fichiers piratés"
+$mypath ="$DesktopPath\Fichiers pirates"
 If(!(test-path -PathType container $mypath))
 {
     mkdir "$mypath"
