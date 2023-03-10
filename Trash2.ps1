@@ -2,7 +2,7 @@
 
 Clear-Host 
 Mode 300
-#Write-Host -ForegroundColor Yellow "Вы нажали на неверную ссылку. Это программа-вымогатель, и ваши файлы будут зашифрованы, вы в глубоком дерьме...'"
+
 Write-Host -ForegroundColor White "You clicked on a bad link. This is a ransomware and your files will be encrypted, you are in deep shit..."
 Write-Host -ForegroundColor Blue "Vous avez clique sur un mauvais lien. Il sagit dun rancongiciel et vos fichiers seront cryptes, vous etes dans la merde..."
 Write-Host -ForegroundColor Red "Sie haben auf einen fehlerhaften Link geklickt. Dies ist eine Ransomware und Ihre Dateien werden verschlüsselt, Sie stecken tief in der Scheiße ..."
